@@ -1,5 +1,5 @@
 ![alt text](https://camo.githubusercontent.com/3fc58d630f8f770987b3800a90372321c44dcf0000876d71ebe441f5538437e2/68747470733a2f2f692e696d6775722e636f6d2f576d4d6e5352742e706e67)
-# XÂY DỰNG HỆ THỐNG THÔNG TIN TRÊN FRAMEWORK
+# PHÁT TRIỂN ỨNG DỤNG WEB & XÂY DỰNG HỆ THỐNG THÔNG TIN TRÊN FRAMEWORK
 
 ## Thành viên nhóm
 
@@ -12,12 +12,20 @@
 
 
 ## Giới thiệu môn học
-* Tên môn học: Xây dựng HTTT trên các Framework
+
+### Phát triển ứng dụng web 
+* Mã môn học: IS207
+* Mã lớp: IS207.O11.HTCL
+* Năm học: HK1 (2023 - 2024)
+* Giảng viên: Thầy Vũ Minh Sang
+
+### Xây dựng HTTT trên các Framework
 
 * Mã môn học: IS220
 * Mã lớp: IS220.O12.HTCL
 * Năm học: HK1 (2023 - 2024)
-* Giảng viên: ThS.Mai Xuân Hùng - Thầy Phạm Nguyễn Thanh Bình
+* Giảng viên: Thầy Mai Xuân Hùng - Thầy Phạm Nguyễn Thanh Bình
+
 
 ## Đồ án cuối kỳ
 * Tên đồ án: **HỆ THỐNG BÁN LẺ LAPTOP CATTOP**
@@ -42,7 +50,20 @@ _Hệ thống này không chỉ tập trung vào việc cung cấp một trải 
 
 ## Công nghệ sử dụng
 
-**Client:** ...
+**Client:** 
+- Runtime: Node.js
+- Framework: Next.js
+- Library: Ant Design, Tailwind CSS
+  
+**Server:** 
 
-**Server:** ...
+Phiên bản sử dụng ngôn ngữ PHP: 
+- Framework: Laravel
+- Database: MySQL
+
+Phiên bản sử dụng ngôn ngữ C#:
+
+- Framework: ASP.NET Core Web APIs
+- Database: MySQL
+
 
