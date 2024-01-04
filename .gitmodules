@@ -1,0 +1,8 @@
+[submodule "backend/asp.net"]
+	path = backend/asp.net
+	url = https://github.com/The-Untidy-Cat/CatTop-Backend-ASP.NET.git
+	branch = master
+[submodule "backend/laravel"]
+	path = backend/laravel
+	url = https://github.com/The-Untidy-Cat/CatTop-Backend-Laravel.git
+	branch = main
