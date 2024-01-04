@@ -6,3 +6,11 @@
 	path = backend/laravel
 	url = https://github.com/The-Untidy-Cat/CatTop-Backend-Laravel.git
 	branch = main
+[submodule "frontend/dashboard"]
+	path = frontend/dashboard
+	url = https://github.com/The-Untidy-Cat/CatTop-Frontend-Dashboard.git
+	branch = main
+[submodule "frontend/customer"]
+	path = frontend/customer
+	url = https://github.com/The-Untidy-Cat/CatTop-Frontend-E-Commerce.git
+	branch = main
