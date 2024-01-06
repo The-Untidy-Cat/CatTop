@@ -5,10 +5,10 @@
 
 | STT | MSSV | Họ và tên | Chức vụ | Github | Email |
 | --- | --- | --- | --- | --- | --- |
-| 1 | 21520581 | Nguyễn Tuấn Anh | Nhóm trưởng | [sheroanh](https://github.com/sheroanh) |21520581@gm.uit.edu.vn
+| 1 | 21520581 | Nguyễn Tuấn Anh | Nhóm trưởng(Framework) | [sheroanh](https://github.com/sheroanh) |21520581@gm.uit.edu.vn
 | 2 | 21520595 | Trần Phương Anh | Thành viên | [gracietran23](https://github.com/gracietran23) | 21520595@gm.uit.edu.vn
 | 3 | 21520653 | Trịnh Thị Mỹ Chung | Thành viên | [ttmc1809](https://github.com/ttmc1809) | 21520653@gm.uit.edu.vn
-| 4 | 21521193 | Nguyễn Minh Ngọc | Thành viên | [Whitie017](https://github.com/Whitie017) | 21521193@gm.uit.edu.vn
+| 4 | 21521193 | Nguyễn Minh Ngọc | Nhóm trưởng(Web) | [Whitie017](https://github.com/Whitie017) | 21521193@gm.uit.edu.vn
 
 
 ## Giới thiệu môn học
